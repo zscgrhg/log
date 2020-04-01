@@ -1,0 +1,12 @@
+https://dhruba.wordpress.com/2010/02/07/creation-dynamic-loading-and-instrumentation-with-javaagents/
+
+https://www.baeldung.com/java-instrumentation
+
+https://medium.com/@shehan.a.perera/using-a-java-agent-to-monitor-application-runtime-behavior-using-metrics-664eb95e971c
+
+https://dhruba.wordpress.com/2010/02/07/creation-dynamic-loading-and-instrumentation-with-javaagents/
+
+
+https://blog.sqreen.com/building-a-dynamic-instrumentation-agent-for-java/
+
+
